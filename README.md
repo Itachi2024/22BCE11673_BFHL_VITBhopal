@@ -49,7 +49,7 @@ Railway URL: https://your-app-name.up.railway.app/bfhl
 
 Test with curl:
 ```
-curl -X POST https://your-app-name.up.railway.app/bfhl \
+curl -X POST [https://your-app-name.up.railway.app/bfhl](https://22bce11673bfhlvitbhopal-production.up.railway.app/bfhl) \
 -H "Content-Type: application/json" \
 -d '{"data":["2","a","y","4","&","-","*","5","92","b"]}'
 ```
